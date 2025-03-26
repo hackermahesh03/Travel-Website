@@ -1,4 +1,4 @@
-# Travel Website - Go Trip
+# Travel Website
 
 ## Overview
 
