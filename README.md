@@ -15,8 +15,8 @@ Go Trip is a simple and stylish travel website that allows users to explore trav
 
 ## Technologies Used
 
-- **HTML5**: For structuring the web pages.
-- **CSS3**: For styling and responsive design.
+- **HTML**: For structuring the web pages.
+- **CSS**: For styling and responsive design.
 - **Google Fonts**: For modern typography.
 - **Cloudinary**: For image hosting.
 
