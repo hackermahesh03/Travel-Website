@@ -40,9 +40,6 @@ Go Trip is a simple and stylish travel website that allows users to explore trav
 - Implement JavaScript for enhanced interactivity.
 - Improve mobile responsiveness.
 
-## License
-
-This project is open-source and free to use for educational and personal projects.
 
 ## Author
 
